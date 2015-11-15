@@ -18,10 +18,10 @@ Great resources from finding data sets to finding jobs!
 
 * http://www.builtincolorado.com/companies  - startup directory
 
-* angel.co - start-ups
+* http://www.bdnewtech.com - local directory & more!
 
-* members.galvanize.com - companies that work out of galvanize
+* http://www.angel.co - start-ups
 
-* bdnewtech.com 
+* http://www.members.galvanize.com - companies that work out of galvanize
 
 * https://angel.co/galvanize-ventures - galvanize's investments

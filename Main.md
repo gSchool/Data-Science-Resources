@@ -34,7 +34,7 @@ Great resources from finding data sets to finding jobs!
 
 * [Enron Emails](http://www.cs.cmu.edu/~enron/)
 
-* [Google N-Grams}(https://aws.amazon.com/datasets/google-books-ngrams/)
+* [Google N-Grams](https://aws.amazon.com/datasets/google-books-ngrams/)
 
 * [Sentence Sentiments](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
 
@@ -52,12 +52,12 @@ Great resources from finding data sets to finding jobs!
 
 ## Finding Companies
 
-* http://www.builtincolorado.com/companies  - startup directory
+* [Built In Colorado](http://www.builtincolorado.com/companies)
 
-* http://www.bdnewtech.com - local directory & more!
+* [Boulder Denver New Tech](http://www.bdnewtech.com)
 
-* http://www.angel.co - start-ups
+* [Angel List](http://www.angel.co)
 
-* http://www.members.galvanize.com - companies that work out of galvanize
+* [Galvanize Members](http://www.members.galvanize.com)
 
-* https://angel.co/galvanize-ventures - galvanize's investments
+* [Galvanize Ventures](https://angel.co/galvanize-ventures)
